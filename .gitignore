@@ -1,0 +1,10 @@
+.env
+*.zip
+/package
+/venv
+/bin
+/activate
+/__pycache__
+six.py
+sockshandler.py
+socks.py

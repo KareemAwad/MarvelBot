@@ -15,4 +15,4 @@ Marvel API Docs: https://developer.marvel.com/docs
 
 ### Description
 
-The bot accesses the Marvel API and pulls a list of all the comic books released during the week, after choosing the comic books containing data for their cover art, the cover art is appropriately formatted and the function then selects a random comic book, tweeting its associated image when scheduled. The bot uses the Tweepy Python Library to access the Twitter API, and is scheduled to run once a day using a Coudwatch trigger.
+The bot accesses the Marvel API and pulls a list of all the comic books released during the week, after choosing the comic books containing data for their cover art, the cover art is appropriately formatted and the function then selects a random comic book, tweeting its associated image when scheduled. The bot uses the Tweepy Python Library to access the Twitter API, and is scheduled to run once a day using a CloudWatch trigger.

@@ -1,5 +1,5 @@
 # MarvelBot
-##Marvel Comic Book Cover Art Bot
+## Marvel Comic Book Cover Art Bot
 
 ### General Info
 
